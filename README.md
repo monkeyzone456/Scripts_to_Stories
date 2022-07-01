@@ -17,5 +17,7 @@ But honestly you gave me a good excuse to learn new shit
 # Config
 OUT_NAME the file name of the output file 
 
+DWNLD_C if your desgnated download place is in D drive
+
 OUT_DIR where the output file ends up has to be in directory format if you dont know how just go into where you need to go 
 and select copy path and paste that replacing the default value 
