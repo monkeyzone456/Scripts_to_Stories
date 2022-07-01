@@ -5,7 +5,7 @@ but now you can do it for other movies too
 
 --------------------------------------------
 # Instructions
-Just put whatever text file you got into the 'Main' folder execute Scripts_2_Stories and it outputs it in the designated location (default is in Downloads)
+Just put whatever text file you got into the 'Scripts_to_Stories' folder execute Scripts_2_Stories and it outputs it in the designated location (default is in Downloads)
 
 
 # Credits
