@@ -9,10 +9,7 @@ Just put whatever text file you got into the 'Scripts_to_Stories' folder execute
 
 
 # Credits
-
-Fuck You Mitch
-
-But honestly you gave me a good excuse to learn new shit
+Ideas man - Mitch
 
 # Config
 DAY_COUNTER (default Y) display day counter if 'Y' then will display what day each section is for
